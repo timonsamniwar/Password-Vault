@@ -1,0 +1,2 @@
+# This Version 1 uses only Python standard-library modules.
+# Python 3.10+ recommended.
